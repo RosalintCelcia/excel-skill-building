@@ -1,4 +1,4 @@
-# excel-skill-building
+# Excel-Skill-Building
 A 7-day challenge to build strong Excel skills from scratch. This repository documents my learning, practice files, and notes as I prepare for a Data Scientist career path.
 
 # 📊 Excel Skill Building – Day 1 of 7
