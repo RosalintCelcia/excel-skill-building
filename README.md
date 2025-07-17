@@ -21,3 +21,46 @@ This repository documents my **daily progress, practice files, notes**, and lear
 
 ---
 
+
+---
+
+## 🛠 Tools Used
+
+- **Microsoft Excel**
+- **Active Notes (Markdown)**
+- **LinkedIn (for Public Learning Log)**
+
+---
+
+## 📢 Follow My Journey
+
+I'm sharing my daily progress on [LinkedIn](#) to stay accountable and connect with fellow learners. Feel free to check out the posts and connect with me!
+
+---
+
+## 📈 Why This Challenge?
+
+Excel is often underestimated, but it’s a foundational tool for:
+- Cleaning and exploring data
+- Creating dashboards and reports
+- Performing basic to intermediate analysis
+- Building confidence before diving into SQL, Python, and BI tools
+
+This challenge is my way to build that foundation — with consistency, clarity, and hands-on practice.
+
+---
+
+## 📬 Connect With Me
+
+- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rosalint-celcia-324320242/)
+- 🧠 Learning Log: [GitHub Repository](https://github.com/RosalintCelcia)
+
+---
+
+## 📘 License
+
+This repository is open for learning and collaboration.  
+Feel free to fork and build upon it for your own learning journey!
+
+---
+
