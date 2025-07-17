@@ -1,4 +1,4 @@
-# 🧠 7-Day Excel Skill Building Challenge
+# 🧠 Excel Skill Building Challenge
 
 Welcome to my **7-Day Excel Skill Building Challenge**!  
 As a beginner, I'm on a mission to build a strong foundation in Excel — one of the essential tools for Data Analysis and Data Science.
