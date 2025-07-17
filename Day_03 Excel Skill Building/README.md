@@ -48,7 +48,7 @@ Today’s focus was on **core Excel functions** and **page formatting** techniqu
 
 I’m sharing my learning journey on LinkedIn. Follow along to see each day’s progress, insights, and tips!
 
-[🔗 https://www.linkedin.com/posts/rosalint-celcia-324320242_excelskills-learningjourney-excelforbeginners-activity-7351611546487177216-SRtb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADw0J8wBsGGwYfy854iR9piYHn4Bkgo-naY](#) 
+[🔗 LinkedIn Post for Day 3](https://www.linkedin.com/posts/rosalint-celcia-324320242_excelskills-learningjourney-excelforbeginners-activity-7351611546487177216-SRtb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADw0J8wBsGGwYfy854iR9piYHn4Bkgo-naY) 
 
 🔗 [Back to Main Repo](../README.md) | [View on LinkedIn](https://www.linkedin.com/in/rosalint-celcia-324320242/)
 ---
