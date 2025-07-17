@@ -31,8 +31,11 @@ Today’s focus was on **core Excel functions** and **page formatting** techniqu
 
 ## 📁 Files Included
 
-- `FunctionsPractice.xlsx` – All solved problems using SUM, COUNT, IF family
-- `Notes.md` – Summary notes and key learnings for quick review
+- `EB03-CountingAddingWithCriteria.xlsx` – All solved problems using SUM, COUNT, IF family
+- Practise (Screenshot)
+- Exercise 1 (Screenshot)
+- Exercise 2 (Screenshot)
+- Exercise 3 (Screenshot)
 
 ---
 
