@@ -31,7 +31,7 @@ This repository documents my **daily progress, practice files, notes**, and lear
 
 ## 📢 Follow My Journey
 
-I'm sharing my daily progress on [LinkedIn](#) to stay accountable and connect with fellow learners. Feel free to check out the posts and connect with me!
+I'm sharing my daily progress on [LinkedIn](https://www.linkedin.com/in/rosalint-celcia-324320242/) to stay accountable and connect with fellow learners. Feel free to check out the posts and connect with me!
 
 ---
 
