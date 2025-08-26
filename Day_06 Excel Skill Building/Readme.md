@@ -43,6 +43,6 @@ Small adjustments like customizing the toolbar/ribbon and mastering shortcuts ca
 ## 🔗 Follow My Journey:  
 I’m sharing my daily progress on LinkedIn and GitHub as part of my data analytics skill-building challenge.  
 
-📌 [LinkedIn Profile](#https://www.linkedin.com/in/rosalint-celcia-324320242/)  
+📌 [LinkedIn Profile](https://www.linkedin.com/in/rosalint-celcia-324320242/)  
 
 Stay tuned for **Day 7! 🚀**  
