@@ -9,15 +9,15 @@ This repository documents my **daily progress, practice files, notes**, and lear
 
 ## 📅 Daily Breakdown
 
-| Day   | Topics Covered | Highlights |
-|-------|----------------|------------|
-| Day 1 | Basic Excel Setup & Navigation | Entering data, basic formatting, formulas, shortcuts, relative/absolute references |
-| Day 2 | Excel Formula Foundations | Golden rule, input tables, using assumptions to update formulas, formatting charts |
-| Day 3 | Essential Functions | SUM, SUMIF(S), COUNT, COUNTIF(S), output formatting |
-| Day 4 | Pivot Table | Data Analysis using SUMIF(S) & Pivot Table |
-| Day 5 | Advanced Pivot Table Technique | Adv Pivot Table , Cross Tabulated Report, Slicers |
-| Day 6 | Customization & Shortcuts | Quick Access Toolbar, Ribbon Tab, Keyboard Shortcuts, Default Alignment,Cell Reference Lock |
-| Day 7 | Number Formatting & Date-Time Functions | ROUND, % Format, Currency & Accounting, General Format, Date & Time Formatting, Payroll Template, EDATE, EMONTH, Date Math |
+|   Day   | Topics Covered | Highlights |
+|---------|----------------|------------|
+|  Day 1  | Basic Excel Setup & Navigation | Entering data, basic formatting, formulas, shortcuts, relative/absolute references |
+|  Day 2  | Excel Formula Foundations | Golden rule, input tables, using assumptions to update formulas, formatting charts |
+|  Day 3  | Essential Functions | SUM, SUMIF(S), COUNT, COUNTIF(S), output formatting |
+|  Day 4  | Pivot Table | Data Analysis using SUMIF(S) & Pivot Table |
+|  Day 5  | Advanced Pivot Table Technique | Adv Pivot Table , Cross Tabulated Report, Slicers |
+|  Day 6  | Customization & Shortcuts | Quick Access Toolbar, Ribbon Tab, Keyboard Shortcuts, Default Alignment,Cell Reference Lock |
+|  Day 7  | Number Formatting & Date-Time Functions | ROUND, % Format, Currency & Accounting, General Format, Date & Time Formatting, Payroll Template, EDATE, EMONTH, Date Math |
 
 ---
 
