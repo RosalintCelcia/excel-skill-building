@@ -18,7 +18,7 @@ This repository documents my **daily progress, practice files, notes**, and lear
 |  Day 5  | Advanced Pivot Table Technique | Adv Pivot Table , Cross Tabulated Report, Slicers |
 |  Day 6  | Customization & Shortcuts | Quick Access Toolbar, Ribbon Tab, Keyboard Shortcuts, Default Alignment,Cell Reference Lock |
 |  Day 7  | Number Formatting & Date-Time Functions | ROUND, % Format, Currency & Accounting, General Format, Date & Time Formatting, Payroll Template, EDATE, EMONTH, Date Math |
-
+|  Day 8  | Formulas (Number, Text, Logical), RIGHT, LEFT, IF, IS, Checkbook, Text strings, Comparative operators	| Solved 9 problems, practiced string extraction, conditional logic, checkbook balance, and comparisons
 ---
 
 ## 🛠 Tools Used
