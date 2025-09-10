@@ -9,7 +9,7 @@ This repository documents my **daily progress, practice files, notes**, and lear
 
 ## 📅 Daily Breakdown
 
-|   Day   | Topics Covered | Highlights |
+|  Day  | Topics Covered | Highlights |
 |---------|----------------|------------|
 |  Day 1  | Basic Excel Setup & Navigation | Entering data, basic formatting, formulas, shortcuts, relative/absolute references |
 |  Day 2  | Excel Formula Foundations | Golden rule, input tables, using assumptions to update formulas, formatting charts |
