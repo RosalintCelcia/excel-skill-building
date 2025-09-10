@@ -10,17 +10,17 @@ This repository documents my **daily progress, practice files, notes**, and lear
 ## 📅 Daily Breakdown
 
 |  Day  | Topics Covered | Highlights |
-|---------|----------------|------------|
-|  Day 1  | Basic Excel Setup & Navigation | Entering data, basic formatting, formulas, shortcuts, relative/absolute references |
-|  Day 2  | Excel Formula Foundations | Golden rule, input tables, using assumptions to update formulas, formatting charts |
-|  Day 3  | Essential Functions | SUM, SUMIF(S), COUNT, COUNTIF(S), output formatting |
-|  Day 4  | Pivot Table | Data Analysis using SUMIF(S) & Pivot Table |
-|  Day 5  | Advanced Pivot Table Technique | Adv Pivot Table , Cross Tabulated Report, Slicers |
-|  Day 6  | Customization & Shortcuts | Quick Access Toolbar, Ribbon Tab, Keyboard Shortcuts, Default Alignment,Cell Reference Lock |
-|  Day 7  | Number Formatting & Date-Time Functions | ROUND, % Format, Currency & Accounting, General Format, Date & Time Formatting, Payroll Template, EDATE, EMONTH, Date Math |
-|  Day 8  | Formulas (Number, Text, Logical), RIGHT, LEFT, IF, IS, Checkbook, Text strings, Comparative operators	| Solved 9 problems, practiced string extraction, conditional logic, checkbook balance, and comparisons
-|  Day 9  | VLOOKUP (Approx & Exact), Data Validation | Applied VLOOKUP in sales, payroll & employee tables; practiced exact vs. approximate match; used Data Validation for dropdowns; solved 3 problems in parallel
-|  Day 10 | Excel Table Features | Adding rows/columns dynamically, VLOOKUP with approx. match, auto-updating tables, pivot tables, charts, data validation, structured references, practiced 2 problems
+|-------|----------------|------------|
+| Day 1 | Basic Excel Setup & Navigation | Entering data, basic formatting, formulas, shortcuts, relative/absolute references |
+| Day 2 | Excel Formula Foundations | Golden rule, input tables, using assumptions to update formulas, formatting charts |
+| Day 3 | Essential Functions | SUM, SUMIF(S), COUNT, COUNTIF(S), output formatting |
+| Day 4 | Pivot Table | Data Analysis using SUMIF(S) & Pivot Table |
+| Day 5 | Advanced Pivot Table Technique | Adv Pivot Table , Cross Tabulated Report, Slicers |
+| Day 6 | Customization & Shortcuts | Quick Access Toolbar, Ribbon Tab, Keyboard Shortcuts, Default Alignment,Cell Reference Lock |
+| Day 7 | Number Formatting & Date-Time Functions | ROUND, % Format, Currency & Accounting, General Format, Date & Time Formatting, Payroll Template, EDATE, EMONTH, Date Math |
+| Day 8 | Formulas (Number, Text, Logical), RIGHT, LEFT, IF, IS, Checkbook, Text strings, Comparative operators	| Solved 9 problems, practiced string extraction, conditional logic, checkbook balance, and comparisons
+| Day 9 | VLOOKUP (Approx & Exact), Data Validation | Applied VLOOKUP in sales, payroll & employee tables; practiced exact vs. approximate match; used Data Validation for dropdowns; solved 3 problems in parallel
+| Day 10 | Excel Table Features | Adding rows/columns dynamically, VLOOKUP with approx. match, auto-updating tables, pivot tables, charts, data validation, structured references, practiced 2 problems
 ---
 
 ## 🛠 Tools Used
