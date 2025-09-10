@@ -20,7 +20,7 @@ This repository documents my **daily progress, practice files, notes**, and lear
 |  Day 7  | Number Formatting & Date-Time Functions | ROUND, % Format, Currency & Accounting, General Format, Date & Time Formatting, Payroll Template, EDATE, EMONTH, Date Math |
 |  Day 8  | Formulas (Number, Text, Logical), RIGHT, LEFT, IF, IS, Checkbook, Text strings, Comparative operators	| Solved 9 problems, practiced string extraction, conditional logic, checkbook balance, and comparisons
 |  Day 9  | VLOOKUP (Approx & Exact), Data Validation | Applied VLOOKUP in sales, payroll & employee tables; practiced exact vs. approximate match; used Data Validation for dropdowns; solved 3 problems in parallel
-
+|  Day 10 | Excel Table Features | Adding rows/columns dynamically, VLOOKUP with approx. match, auto-updating tables, pivot tables, charts, data validation, structured references, practiced 2 problems
 ---
 
 ## 🛠 Tools Used
