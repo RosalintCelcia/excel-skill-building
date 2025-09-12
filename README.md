@@ -21,6 +21,7 @@ This repository documents my **daily progress, practice files, notes**, and lear
 | Day 8 | Formulas (Number, Text, Logical), RIGHT, LEFT, IF, IS, Checkbook, Text strings, Comparative operators	| Solved 9 problems, practiced string extraction, conditional logic, checkbook balance, and comparisons
 | Day 9 | VLOOKUP (Approx & Exact), Data Validation | Applied VLOOKUP in sales, payroll & employee tables; practiced exact vs. approximate match; used Data Validation for dropdowns; solved 3 problems in parallel
 | Day 10 |  Excel Tables & Mixed References | Table features (auto expand, VLOOKUP, charts, data validation), structured references, pivot tables, mixed cell references (budgeting, payroll, multiplication), 6 practice problems |
+| Day 11 | Named Ranges & Formula Efficiency | Created and managed named ranges, applied in formulas, used Name Manager, practiced dynamic references for cleaner calculations.
 ---
 
 ## 🛠 Tools Used
