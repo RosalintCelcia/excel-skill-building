@@ -23,6 +23,9 @@ This repository documents my **daily progress, practice files, notes**, and lear
 | Day 10 |  Excel Tables & Mixed References | Table features (auto expand, VLOOKUP, charts, data validation), structured references, pivot tables, mixed cell references (budgeting, payroll, multiplication), 6 practice problems |
 | Day 11 | Named Ranges & Formula Efficiency | Created and managed named ranges, applied in formulas, used Name Manager, practiced dynamic references for cleaner calculations. |
 | Day 12 | Conditional calculations (MAXIFS, MINIFS, COUNTIFS, SUMIFS, AVERAGEIFS), Excel Tables, AND logical test | Practiced multi-condition formulas, used relative/absolute references, solved 3 problems applying all functions in parallel |
+| Day 13 | Advanced Pivot Table Techniques | % of Row analysis, unique list count, VLOOKUP column for Pivot Tables, connected slicers, Group By, Show Values As (MoM, % change, running total), Summarize Values By, practiced 2 problems with sub-problems |
+| Day 14 | Data Models & Advanced Pivot Tables | Structured datasets into tables, built relationships, used multiple tables across worksheets, created Pivot Tables with Data Models, set default options, solved practice problem |
+| Day 15 | Data Analysis, Flash Fill, Filter & Sort | Used Flash Fill for pattern recognition, applied filters (hide/copy rows), performed sorting (single column, multi-column, major sort using dialog box & buttons) |
 ---
 
 ## 🛠 Tools Used
