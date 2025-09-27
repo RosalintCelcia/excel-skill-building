@@ -26,6 +26,8 @@ This repository documents my **daily progress, practice files, notes**, and lear
 | Day 13 | Advanced Pivot Table Techniques | % of Row analysis, unique list count, VLOOKUP column for Pivot Tables, connected slicers, Group By, Show Values As (MoM, % change, running total), Summarize Values By, practiced 2 problems with sub-problems |
 | Day 14 | Data Models & Advanced Pivot Tables | Structured datasets into tables, built relationships, used multiple tables across worksheets, created Pivot Tables with Data Models, set default options, solved practice problem |
 | Day 15 | Data Analysis, Flash Fill, Filter & Sort | Used Flash Fill for pattern recognition, applied filters (hide/copy rows), performed sorting (single column, multi-column, major sort using dialog box & buttons) |
+| Day 16 | Charting Techniques | Pivot Table + Chart, XY Scatter, Line, Column, Bar, Pie, Stacked Column, 4 practice problems with all charts |
+| Day 17 | Power Query Basics | Import data, clean & transform datasets, handle missing values, load into Excel |
 
 ---
 
